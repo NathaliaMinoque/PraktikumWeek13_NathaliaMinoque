@@ -1,0 +1,10 @@
+D:\Kuliah\Semester 1\Alpro\[13] Praktikum WinForm\[13] Praktikum WinForm\bin\Debug\[13] Praktikum WinForm.exe.config
+D:\Kuliah\Semester 1\Alpro\[13] Praktikum WinForm\[13] Praktikum WinForm\bin\Debug\[13] Praktikum WinForm.exe
+D:\Kuliah\Semester 1\Alpro\[13] Praktikum WinForm\[13] Praktikum WinForm\bin\Debug\[13] Praktikum WinForm.pdb
+D:\Kuliah\Semester 1\Alpro\[13] Praktikum WinForm\[13] Praktikum WinForm\obj\Debug\[13] Praktikum WinForm.csprojAssemblyReference.cache
+D:\Kuliah\Semester 1\Alpro\[13] Praktikum WinForm\[13] Praktikum WinForm\obj\Debug\_13__Praktikum_WinForm.FormPengaturanWarna.resources
+D:\Kuliah\Semester 1\Alpro\[13] Praktikum WinForm\[13] Praktikum WinForm\obj\Debug\_13__Praktikum_WinForm.Properties.Resources.resources
+D:\Kuliah\Semester 1\Alpro\[13] Praktikum WinForm\[13] Praktikum WinForm\obj\Debug\[13] Praktikum WinForm.csproj.GenerateResource.cache
+D:\Kuliah\Semester 1\Alpro\[13] Praktikum WinForm\[13] Praktikum WinForm\obj\Debug\[13] Praktikum WinForm.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 1\Alpro\[13] Praktikum WinForm\[13] Praktikum WinForm\obj\Debug\[13] Praktikum WinForm.exe
+D:\Kuliah\Semester 1\Alpro\[13] Praktikum WinForm\[13] Praktikum WinForm\obj\Debug\[13] Praktikum WinForm.pdb
